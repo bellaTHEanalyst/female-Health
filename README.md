@@ -1,6 +1,6 @@
 ## SELF BREAST EXAMINATION PRACTICE
 
- # Analysis of data of a client final year project
+ # Analysis of data 
 
 # chapter 4
  
