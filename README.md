@@ -54,7 +54,7 @@ The chart above shows that majority (70%) of the respondents had a good level of
  
  ![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/table%204%20continued.jpg)
  
- Table 4.1.3 shows that (74%) of them have done breast examination while (26%) of them have not. (15%) said a doctor did it for them, (30%) said a nurse did it for them, (50%) said they did it by themselves, (5%) said they had others do it for them. (80%) of them said they practice self-examination while (20%) do not practice self-examination. (5%) of them said they started practicing self-breast examination at less than 16 years, (15%) of them said they started practicing self-examination from  16-19 years, (30%) of them said they  started practicing self-breast examination from 20-25 years,(50%) of them said they started practicing self-breast examination from 25 years and above.(10%) of them said they practice self-breast examination daily,(20%) of them said they practice self-breast examination weekly,(30%) of them said they practice self-breast examination monthly,(40%) of them said they practice self-breast examination yearly.(5%) of them said they perform breast examination before menstruation,(10%) of them said they perform breast examination during menstruation ,(10%) of them said they perform breast examination after menstruation,(75%) of them said they perform breast examination when there’s complain.(0%) none of them performed self-examination today, (5%) said they  performed self-breast examination yesterday,(10%) said they  performed self-examination last week ,(35%) of them said they  performed self-breast examination last month and (50%) could not remember.(15%) of them said they perform self-breast examination to check for lump,(30%) of them said they perform self-breast examination when they felt breast pain,(35%) of them said they perform self-breast examination when the see nipple discharge (20%) of them said they have a family history of breast cancer.
+-  Table 4.1.3 shows that (74%) of them have done breast examination while (26%) of them have not. (15%) said a doctor did it for them, (30%) said a nurse did it for them, (50%) said they did it by themselves, (5%) said they had others do it for them. (80%) of them said they practice self-examination while (20%) do not practice self-examination. (5%) of them said they started practicing self-breast examination at less than 16 years, (15%) of them said they started practicing self-examination from  16-19 years, (30%) of them said they  started practicing self-breast examination from 20-25 years,(50%) of them said they started practicing self-breast examination from 25 years and above.(10%) of them said they practice self-breast examination daily,(20%) of them said they practice self-breast examination weekly,(30%) of them said they practice self-breast examination monthly,(40%) of them said they practice self-breast examination yearly.(5%) of them said they perform breast examination before menstruation,(10%) of them said they perform breast examination during menstruation ,(10%) of them said they perform breast examination after menstruation,(75%) of them said they perform breast examination when there’s complain.(0%) none of them performed self-examination today, (5%) said they  performed self-breast examination yesterday,(10%) said they  performed self-examination last week ,(35%) of them said they  performed self-breast examination last month and (50%) could not remember.(15%) of them said they perform self-breast examination to check for lump,(30%) of them said they perform self-breast examination when they felt breast pain,(35%) of them said they perform self-breast examination when the see nipple discharge (20%) of them said they have a family history of breast cancer.
  
  ![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/visual%202%20sbe.jpg)
  
@@ -71,7 +71,78 @@ The chart above shows that (80%) of respondents practice self-breast examination
 ![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/visual%203%20sbe.jpg)
 
 - Figure 5: Evaluation of respondents to factors influencing self-breast examination
-From the chart above, majority (56.66%) of them agreed to the factors influencing breast examination while (43.33%) of them disagreed to the factors influencing breast examination 
+From the chart above, majority (56.66%) of them agreed to the factors influencing breast examination while (43.33%) of them disagreed to the factors influencing breast examination.
+
+## 4.2 Research Hypothesis
+
+ - The formulated hypothesis was tested using Chi-square analysis.
+ - 
+Ho1: There is no significant relationship between the level of education of self-breast examination and their level of knowledge of self-breast examination
+
+- Table 4.2.1: Relationship between the level of education of self-breast examination and level of knowledge of self-breast examination
+
+![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/spss%201%20table.jpg)
+
+![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/spss%202%20table.jpg)
+
+Level of significance = 0.05
+
+Degree of freedom = 9
+
+X2 = 16.919 (tabulated value)
+
+X2 = 5.899 (calculated value)
+
+- Decision Rule: Reject null hypothesis if calculated value is greater than the tabulated value, otherwise accept. 
+
+- Calculated value is less than tabulated value, therefore the null hypothesis is accepted. 
+
+- Conclusion: There is no significant relationship between the level of education of self-breast examination and level of knowledge of self-breast examination.
+
+Ho2: There is no significant relationship between the level of knowledge of self-breast examination and   the practice of self-breast examination
+
+- Table 4.2.2: Relationship between the level of knowledge of self-breast examination and   the practice of self-breast examination.
+
+![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/spss%203%20table.jpg)
+
+Level of significance = = 0.05
+
+Degree of freedom = 9
+
+X2 = 16.919 (tabulated value)
+
+X2 = 5.899 (calculated value)
+
+- Decision Rule: Reject null hypothesis if calculated value is greater than the tabulated value, otherwise accept.
+
+- Calculated value is less than tabulated value, therefore the null hypothesis is accepted. 
+
+- Conclusion: There is no significant relationship between the level of knowledge of self-breast examination and   the practice of self-breast examination
+
+## 4.3 Answering Research Questions
+
+Research Question 1:  What is the level of knowledge of self-breast examination among the school of nursing students?
+This study reveals that majority (70%) of the respondents had a good level of knowledge of self-breast examination while (30%) had a poor level of knowledge of self-breast examination.
+
+- Research Question 2:  Are the school of nursing students practicing self-breast examination?
+
+This study shows that (80%) of respondents practice self-breast examination, (20%) of respondents do not practice self-breast examination.
+
+- Research Question 3:  What are the factors affecting the practice of self-breast examination among the school of nursing students?
+ 
+This study reveals that majority (56.66%) of them agreed to the factors influencing self-breast examination while (43.33%) of them disagreed to the factors influencing self-breast examination   
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
