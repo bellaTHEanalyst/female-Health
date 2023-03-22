@@ -312,6 +312,10 @@ s/n	factors	Agreed 	Disagreed
 28	Self-breast examination will make the breast sag		
 
 
+## SECTION D: FACTORS INFLUENCING SELF-BREAST EXAMINATION 
+
+![](https://github.com/bellaTHEanalyst/school-project-chapter-4-5-analysis-/blob/main/last%20table.jpg)
+
 
 
 
